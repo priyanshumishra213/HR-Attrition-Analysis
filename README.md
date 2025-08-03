@@ -1,7 +1,7 @@
 # HR Attrition Analysis (MS Excel Project)
 
 ## 📌 Objective
-Working as a Team Leader to analyze employee attrition trends using IBM's HR dataset and identify key factors affecting employee retention. The project helps HR departments make data-driven decisions to reduce attrition. 
+Worked as a Team Leader to analyze employee attrition trends using IBM's HR dataset and identify key factors affecting employee retention. The project helps HR departments make data-driven decisions to reduce attrition. 
 
 ---
 
